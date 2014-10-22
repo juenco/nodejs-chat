@@ -2,4 +2,4 @@ nodejs-chat
 ===========
 
 
-Simple chat with user login using Node.js
+Simple chat using Node.js
